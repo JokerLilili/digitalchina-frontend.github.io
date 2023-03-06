@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6ebc2b93","path":"/develop/matrix/admin/react/","title":"React","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1675850157000,"contributors":[{"name":"肖子立","email":"xiaozlb@digitalchina.com","commits":1}]},"filePathRelative":"develop/matrix/admin/react/README.md"}');export{e as data};
